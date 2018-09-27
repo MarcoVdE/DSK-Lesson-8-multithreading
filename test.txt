@@ -1,1 +1,2 @@
-this is the newbranch 1
+add text here. this is master.
+we're going to add some text here.
